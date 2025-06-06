@@ -21,5 +21,11 @@ val Typography = Typography(
         fontSize = 16.sp,
         lineHeight = 24.sp,
         letterSpacing = 0.5.sp
+    ),
+    displaySmall = TextStyle(
+        fontFamily = FontFamily(Font(R.font.montserrat_medium)),
+        fontSize = 10.sp,
+        lineHeight = 12.sp,
+        letterSpacing = 0.5.sp
     )
 )
