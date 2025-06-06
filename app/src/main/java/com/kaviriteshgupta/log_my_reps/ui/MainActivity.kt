@@ -1,4 +1,4 @@
-package com.kaviriteshgupta.log_my_reps
+package com.kaviriteshgupta.log_my_reps.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
